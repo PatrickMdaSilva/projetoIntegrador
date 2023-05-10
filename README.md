@@ -1,6 +1,6 @@
 # projetoIntegrador
 
-## Membros do Grupo
+## Membros do Grupo-2
 EDUARDO DOS SANTOS
 RODRIGO MACHADO FERRARI
 PATRICK MARCELINO DA SILVA
